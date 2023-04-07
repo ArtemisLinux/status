@@ -5,7 +5,7 @@ repo: status # The name of this repository
 sites:
   - name: ArtemisOS
     url: https://artemislinux.github.io/
-  - name: Repo
+  - name: Repo (GitHub)
     url: https://github.com/ArtemisLinux/ArtemisOS-Repo
 
 
