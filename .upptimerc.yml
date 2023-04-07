@@ -3,9 +3,9 @@ owner: ArtemisLinux # Your GitHub organization or username, where this repositor
 repo: status # The name of this repository
 
 sites:
-  - name: ArtemisOS (Website)
+  - name: ArtemisOS - Website
     url: https://artemislinux.github.io/
-  - name: Repo (GitHub)
+  - name: Repo - GitHub
     url: https://github.com/ArtemisLinux/ArtemisOS-Repo
 
 status-website:
