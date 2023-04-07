@@ -8,6 +8,8 @@ sites:
   - name: Repo (GitHub)
     url: https://github.com/ArtemisLinux/ArtemisOS-Repo
 
+status-website:
+  theme: dark
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
