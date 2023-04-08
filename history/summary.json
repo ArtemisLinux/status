@@ -36,6 +36,24 @@
     "dailyMinutesDown": {}
   },
   {
+    "name": "Wiki",
+    "url": "https://artemiswiki.readthedocs.io/",
+    "icon": "https://icons.duckduckgo.com/ip3/artemiswiki.readthedocs.io.ico",
+    "slug": "wiki",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 721,
+    "timeDay": 721,
+    "timeWeek": 721,
+    "timeMonth": 721,
+    "timeYear": 721,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "AUR",
     "url": "https://aur.archlinux.org/",
     "icon": "https://icons.duckduckgo.com/ip3/aur.archlinux.org.ico",
