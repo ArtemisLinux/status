@@ -7,6 +7,11 @@ sites:
     url: https://artemislinux.github.io/
   - name: Repo - GitHub
     url: https://github.com/ArtemisLinux/ArtemisOS-Repo
+  - name: AUR
+    url: https://aur.archlinux.org/
+    
+    
+    
 
 status-website:
   theme: night
