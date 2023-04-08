@@ -23,7 +23,7 @@ status-website:
   name: Artemis OS Status
   navbar:
     - title: Status
-      href: /
+      href: https://artemislinux.github.io/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
