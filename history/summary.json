@@ -40,18 +40,20 @@
     "url": "https://artemiswiki.readthedocs.io/",
     "icon": "https://icons.duckduckgo.com/ip3/artemiswiki.readthedocs.io.ico",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 410,
-    "timeDay": 468,
-    "timeWeek": 445,
-    "timeMonth": 389,
-    "timeYear": 410,
-    "dailyMinutesDown": {}
+    "time": 404,
+    "timeDay": 322,
+    "timeWeek": 411,
+    "timeMonth": 382,
+    "timeYear": 404,
+    "dailyMinutesDown": {
+      "2023-05-15": 0
+    }
   },
   {
     "name": "AUR",
